@@ -8,3 +8,5 @@
 
 ## Support the app development
 <a href="https://www.buymeacoffee.com/gradlman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="170" ></a>
+
+If you are interested to help with the app development, contact me.
